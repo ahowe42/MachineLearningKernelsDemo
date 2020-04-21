@@ -11,6 +11,15 @@ I put this notebook together as an expository demonstration of many machine lear
 - Cross-Validation
 - Hyperparameter Tuning
 - Feature Selection
+- Feature Hierarchy
+- Genetic / Evolutionary Algorithms
+- Information Theoretic Criteria
 - Ensemble Modeling
 
 Each new topic builds upon the previous topic, putting together a somewhat complete (conceptually) machine learning model fitting & evaluation process.
+
+I have also taken advantage of this platform to demo related data science topics, including:
+
+- some cool plot.ly plotting
+- the awesomeness of scikit-learn
+- integrating markdown, HTML, and LaTeX in jupyter notebook
