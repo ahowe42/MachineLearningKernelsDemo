@@ -1,11 +1,12 @@
 # Machine Learning with Kernels Demo
 
-I put this notebook together as an expository demonstration of many machine learning concepts. All the modeling is performed on Sir R. A. Fisher's infamous Iris dataset (Fisher, R.A. "The use of multiple measurements in taxonomic problems",  Annual Eugenics, 7, Part II, 179-188 (1936); also in "Contributions to  Mathematical Statistics" (John Wiley, NY, 1950)). Using this dataset, the following concepts are discussed / demonstrated:
+I put this notebook together as an expository demonstration of many machine learning concepts. All the modeling is performed on Sir R. A. Fisher's infamous Iris dataset (*Fisher, R.A. "The use of multiple measurements in taxonomic problems",  Annual Eugenics, 7, Part II, 179-188 (1936); also in "Contributions to  Mathematical Statistics" (John Wiley, NY, 1950)*). Using this dataset, the following concepts are discussed / demonstrated:
 
 - Exploratory Data Analysis & Visualization
 - Feature Engineering
 - Supervised Classification Modeling
 - Logistic Regression
+- Numeric Optimization
 - Support Vector Machines
 - Reproducing Kernel Hilbert Spaces
 - Cross-Validation
@@ -22,4 +23,4 @@ I have also taken advantage of this platform to demo related data science topics
 
 - some cool plot.ly plotting
 - the awesomeness of scikit-learn
-- integrating markdown, HTML, and LaTeX in jupyter notebook
+- integrating markdown, HTML, and LaTeX in jupyter notebooks
